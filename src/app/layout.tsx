@@ -11,8 +11,8 @@ import { Poppins } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'UTLogistics | Professional Amazon Relay Logistics',
-  description: 'High-growth Amazon Relay partner. We provide scalable, efficient, and data-driven logistics solutions.',
+  title: "UTLogistics | Professional Amazon Relay Logistics",
+  description: "High-growth Amazon Relay partner. We provide scalable, efficient, and data-driven logistics solutions.",
   openGraph: {
     "title": "UTLogistics",
     "description": "Amazon Relay logistics partner.",
